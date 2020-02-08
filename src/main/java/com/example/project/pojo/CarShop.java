@@ -17,6 +17,8 @@ public class CarShop {
     @OneToMany(mappedBy = "carShop")
     private List<Car> cars;
 
+    //mfkdnlgkndfdf;g;dfmf;
+
     public CarShop() {
     }
 
