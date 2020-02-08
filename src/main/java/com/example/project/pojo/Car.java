@@ -26,6 +26,7 @@ public class Car {
 
 
     //safsafsfa
+    //hhh,
 
     @ManyToOne
     @JoinColumn(name = "car_id", nullable = false)
