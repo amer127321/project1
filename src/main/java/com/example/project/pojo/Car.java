@@ -26,6 +26,10 @@ public class Car {
 
 
     //safsafsfa
+    //hhh,
+    //sdasda
+    //deewdew
+    //edw
 
     @ManyToOne
     @JoinColumn(name = "car_id", nullable = false)
