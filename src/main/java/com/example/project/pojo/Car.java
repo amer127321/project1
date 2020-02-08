@@ -24,13 +24,6 @@ public class Car {
     @Column
     private Double price;
 
-
-    //safsafsfa
-    //hhh,
-    //sdasda
-    //deewdew
-    //edw
-
     @ManyToOne
     @JoinColumn(name = "car_id", nullable = false)
     @JsonIgnore
